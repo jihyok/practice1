@@ -22,3 +22,12 @@ h2 {
     top: 150px;
 
 }
+
+p {
+    position:absolute;
+font-family: "Helvetica";
+font-size: 15px;
+color:rgb(73, 71, 71);
+left: 50px;
+top: 430px;
+}
