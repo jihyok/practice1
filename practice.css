@@ -31,3 +31,43 @@ color:rgb(73, 71, 71);
 left: 50px;
 top: 430px;
 }
+
+@media only screen and (max-width: 50rem) {
+
+    h1 {
+        position: absolute;
+         font-family: "Helvetica";
+         font-size: 40px;
+         color: rgb(122, 194, 122);
+         left: 30px;
+         top: 32px;
+     }
+     
+     .marble {
+         position: absolute; 
+        width: 350px;  
+     top: 270px;
+     left: 15px;
+     }
+
+     
+     h2 {
+         position: absolute;
+         font-family: "Helvetica";
+         font-size: 50px;
+         color: rgb(236, 152, 166);
+         left: 30px;
+         top: 70px;
+     
+     }
+     
+     p {
+         position:absolute;
+     font-family: "Helvetica";
+     font-size: 15px;
+     color:rgb(73, 71, 71);
+     left: 20px;
+     top: 730px;
+     }
+
+}
